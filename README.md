@@ -27,11 +27,11 @@ Trong hành trình tìm đường về nhà, Alex sẽ gặp gỡ rất nhiều 
 - Tránh va chạm với các kẻ thù và các chướng ngại vật
 - Hoàn thành các cấp độ để tiến đến cấp độ tiếp theo
 
-[**Bản thiết kế**](https://www.canva.com/design/DAFU0p2Ufgw/Z49bzsROTTcqJUuzK8Mr0A/edit?utm_content=DAFU0p2Ufgw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[**Bản thiết kế bằng canva của mình**](https://www.canva.com/design/DAFU0p2Ufgw/Z49bzsROTTcqJUuzK8Mr0A/edit?utm_content=DAFU0p2Ufgw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Các vật liệu trong trò chơi:
 ![image](https://user-images.githubusercontent.com/88275892/234052947-0f01e16c-b90f-4275-80b9-744ef3415853.png)
 
-## Cáclevel trong trò chơi:
+## Các level trong trò chơi:
 ![image](https://user-images.githubusercontent.com/88275892/234053212-cbdbc9b9-09cf-449c-97ee-e99888af1685.png)
 ![image](https://user-images.githubusercontent.com/88275892/234053403-d0337841-a8b1-4916-a0ee-edd221534f5a.png)
 ![image](https://user-images.githubusercontent.com/88275892/234053446-24ed5dee-2a69-4350-9895-0bcebe46a12c.png)
