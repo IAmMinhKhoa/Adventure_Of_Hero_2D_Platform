@@ -36,3 +36,12 @@ Trong hành trình tìm đường về nhà, Alex sẽ gặp gỡ rất nhiều 
 ![image](https://user-images.githubusercontent.com/88275892/234053403-d0337841-a8b1-4916-a0ee-edd221534f5a.png)
 ![image](https://user-images.githubusercontent.com/88275892/234053446-24ed5dee-2a69-4350-9895-0bcebe46a12c.png)
 *Do thời gian và nhân lực có hạn nên mình chỉ mới thiết kế được 3 level hoy*
+
+
+
+## Một số hình ảnh khác:
+![image](https://user-images.githubusercontent.com/88275892/234057251-a146a7cc-340c-466f-b5ce-6906d983714f.png)
+![image](https://user-images.githubusercontent.com/88275892/234057388-d02ad22a-4dc7-442f-8274-1c0755d54f55.png)
+![image](https://user-images.githubusercontent.com/88275892/234057646-3611aec2-a244-4700-87e3-a54dc9422d6f.png)
+
+
