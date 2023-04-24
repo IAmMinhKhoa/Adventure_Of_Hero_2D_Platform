@@ -1,5 +1,6 @@
 # Adventure Of_Hero 2D Platform
-
+[**CONTACT TO ME**](https://www.facebook.com/Ireking666)
+#### **Email: tnminhkhoa666@gmail.com**
 ## Cốt truyện:
 
 Câu chuyện của tựa game **Adventure Of_Hero 2D Platform** xoay quanh cuộc phiêu lưu của một nhân vật tên là Alex. Alex là một chàng trai trẻ năng động và luôn sẵn sàng đối mặt với những thử thách để chứng tỏ mình.
