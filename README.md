@@ -44,4 +44,4 @@ Trong hành trình tìm đường về nhà, Alex sẽ gặp gỡ rất nhiều 
 ![image](https://user-images.githubusercontent.com/88275892/234057388-d02ad22a-4dc7-442f-8274-1c0755d54f55.png)
 ![image](https://user-images.githubusercontent.com/88275892/234057646-3611aec2-a244-4700-87e3-a54dc9422d6f.png)
 
-
+# NGÀY THỰC HIỆN : THÁNG 10-2022
