@@ -65,4 +65,4 @@ Trong hành trình tìm đường về nhà, Alex sẽ gặp gỡ rất nhiều 
 +UX di chuyển nhân vật mình cảm thấy vẫn chưa được mượt nhất có thể.
 +Tối ưu UI trên nền tảng PC thì ổn, nhưng các nền tảng khác (Mobie, MacOS) thì chưa quá tốt.
 
-# NGÀY THỰC HIỆN : THÁNG 10-2022
+# NGÀY THỰC HIỆN : THÁNG 8 -> 10-2022
