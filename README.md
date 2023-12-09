@@ -65,4 +65,13 @@ Trong hành trình tìm đường về nhà, Alex sẽ gặp gỡ rất nhiều 
 +UX di chuyển nhân vật mình cảm thấy vẫn chưa được mượt nhất có thể.
 +Tối ưu UI trên nền tảng PC thì ổn, nhưng các nền tảng khác (Mobie, MacOS) thì chưa quá tốt.
 
-# NGÀY THỰC HIỆN : THÁNG 8 -> 10-2022
+# NGÀY THỰC HIỆN : THÁNG 12/12/2022 -> 16/01-2023
+## Task Manager quản lí công việc bằng **trello**
+![image](https://github.com/IAmMinhKhoa/Adventure_Of_Hero_2D_Platform/assets/88275892/09366bc5-8e41-4d97-8abf-605b4ae70241)
+![image](https://github.com/IAmMinhKhoa/Adventure_Of_Hero_2D_Platform/assets/88275892/d9df8812-00fc-45f2-a757-c645782a0f43)
+![image](https://github.com/IAmMinhKhoa/Adventure_Of_Hero_2D_Platform/assets/88275892/217932a0-2559-4454-82c8-571e6e217637)
+![image](https://github.com/IAmMinhKhoa/Adventure_Of_Hero_2D_Platform/assets/88275892/8e5c6fe1-5320-4aee-afc5-ff932544d650)
+
+
+
+
