@@ -2,6 +2,8 @@
 [**CONTACT TO ME**](https://www.facebook.com/Ireking666)
 #### **Email: tnminhkhoa666@gmail.com**
 ## Cốt truyện:
+[**Bản thiết kế bằng canva của mình**](https://www.canva.com/design/DAFU0p2Ufgw/Z49bzsROTTcqJUuzK8Mr0A/edit?utm_content=DAFU0p2Ufgw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[**Link Youtube Demo**](https://youtu.be/f5Os-Lp3Wic)
 
 Câu chuyện của tựa game **Adventure Of_Hero 2D Platform** xoay quanh cuộc phiêu lưu của một nhân vật tên là Alex. Alex là một chàng trai trẻ năng động và luôn sẵn sàng đối mặt với những thử thách để chứng tỏ mình.
 
@@ -27,7 +29,7 @@ Trong hành trình tìm đường về nhà, Alex sẽ gặp gỡ rất nhiều 
 - Tránh va chạm với các kẻ thù và các chướng ngại vật
 - Hoàn thành các cấp độ để tiến đến cấp độ tiếp theo
 
-[**Bản thiết kế bằng canva của mình**](https://www.canva.com/design/DAFU0p2Ufgw/Z49bzsROTTcqJUuzK8Mr0A/edit?utm_content=DAFU0p2Ufgw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Các vật liệu trong trò chơi:
 ![image](https://user-images.githubusercontent.com/88275892/234052947-0f01e16c-b90f-4275-80b9-744ef3415853.png)
 
