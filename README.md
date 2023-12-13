@@ -1,6 +1,6 @@
 # Adventure Of Hero 2D Platform
 [**CONTACT TO ME**](https://www.facebook.com/Ireking666)
-#### **Email: tnminhkhoa666@gmail.com**
+#### **Email: khoaminh6969@gmail.com**
 ## Cốt truyện:
 [**Bản thiết kế bằng canva của mình**](https://www.canva.com/design/DAFU0p2Ufgw/Z49bzsROTTcqJUuzK8Mr0A/edit?utm_content=DAFU0p2Ufgw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) </p>
 [**Link Youtube Demo**](https://youtu.be/f5Os-Lp3Wic)
