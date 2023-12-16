@@ -3,8 +3,8 @@
 #### **Email: khoaminh6969@gmail.com**
 ## Cốt truyện:
 [**Bản thiết kế bằng canva của mình**](https://www.canva.com/design/DAFU0p2Ufgw/Z49bzsROTTcqJUuzK8Mr0A/edit?utm_content=DAFU0p2Ufgw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) </p>
-[**Link Youtube Demo**](https://youtu.be/f5Os-Lp3Wic)
-
+[**Link Youtube Demo**](https://youtu.be/f5Os-Lp3Wic) <p>
+[**Play Game**](https://ngobakhasix6nine9.itch.io/adventure-of-hero)<p>
 Câu chuyện của tựa game **Adventure Of_Hero 2D Platform** xoay quanh cuộc phiêu lưu của một nhân vật tên là Alex. Alex là một chàng trai trẻ năng động và luôn sẵn sàng đối mặt với những thử thách để chứng tỏ mình.
 
 Vào một ngày đẹp trời, Alex đã bị mắc kẹt trong một thế giới ảo kỳ lạ và đầy nguy hiểm. Nhân vật của chúng ta phải đi qua các địa hình khác nhau và vượt qua các chướng ngại vật để tìm đường về nhà. Trên đường đi, Alex sẽ phải đối mặt với nhiều thử thách, bao gồm những kẻ thù đáng sợ và các cấp độ nguy hiểm.
